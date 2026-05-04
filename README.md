@@ -1,16 +1,39 @@
-## Hi there 👋
+# V Dev 👋
 
-<!--
-**omniplatform-ai/omniplatform-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform Engineer | Cloud & DevOps | AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I design and build scalable cloud infrastructure and production-grade DevOps systems.  
+Focused on automation, reliability, and real-world deployments.
+
+---
+
+## 🛠️ Tech Stack
+- AWS (EC2, S3, Lambda, API Gateway, CloudWatch)
+- Terraform & AWS CDK
+- Docker & Kubernetes
+- CI/CD (GitHub Actions, GitLab)
+- Monitoring & Observability
+
+---
+
+## 🔥 Current Focus
+- Building real-world DevOps projects
+- Cloud automation at scale
+- AI-integrated platform engineering
+
+---
+
+## 📌 Projects (Coming Soon)
+- End-to-End CI/CD Pipeline (AWS + GitHub Actions)
+- Microservices Deployment on Kubernetes
+- Serverless Production Architecture
+
+---
+
+## 🌍 Vision
+To build scalable, production-ready platforms and evolve into an AI-driven Platform Engineer.
+
+---
